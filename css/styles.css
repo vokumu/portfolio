@@ -1,3 +1,24 @@
 .fs-4{
     color: #ffffff;
 }
+.spacer{
+    margin-top:3em !important;
+}
+.footer{
+background-color: #EDF2F6 !important;
+}
+.jumbotron{
+    padding: 3em;
+}
+.jumbotron-bg{
+    background-color:#EDF2F6 ;
+}
+.circular-img {
+    border-radius: 50%;
+    height: 400px;
+  }
+  .bold{
+      font-weight: bold;
+      line-height: 40px;
+  }
+  
