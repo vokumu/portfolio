@@ -11,11 +11,11 @@ Also highlighted  are my interests and hobbies.
 
 ## Setup instructions  
 To use the repository:
- Markup :1. Download as zip file
-         2. Extract the content of the Zip in a folder
-         3. Click on the index.html file and open with your favorite browser
-         4. enjoy ):
-         5. Also by clicking the link below you can view the page as hosted on github
+1. Download as zip file
+2. Extract the content of the Zip in a folder
+3. Click on the index.html file and open with your favorite browser
+4. enjoy ):
+5. Also by clicking the link below you can view the page as hosted on github
 
 ## View My Portfolio
 [View site](https://vokumu.github.io/portfolio/)
