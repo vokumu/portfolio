@@ -18,7 +18,7 @@ To use the repository:
     5. also by clicking the link below you can view the page as hosted on github
 
 ## View My Portfolio
-[View site](https://github.com/..........)
+[View site](https://vokumu.github.io/portfolio/)
 
 ## Copyright  & License
 ### Copyright
